@@ -1,5 +1,5 @@
 ## srgantmoomoo
-Hi there, i'm  srgantmoomoo. I got into coding around July 2020 and it's something I genuinly enjoy doing now.  I bassically only know java and the majority of my projects right now have to do with modding, I would like to learn basic C and C++ and eventually get into web development.
+Hi there, i'm  SrgantMooMoo. I got into coding around July 2020 and it's something I genuinly enjoy doing now.  I bassically only know java and the majority of my projects right now have to do with minecraft modding, I would like to learn basic C and C++ and eventually java script and get into web development in general.
 
 ## projects 
 - postman, a public minecraft forge 1.12.2 client for anarchy servers.
