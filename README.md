@@ -14,4 +14,4 @@ Discord - srgantmoomoo#1052. <br />
 Website - https://get-on-top-of.me <br />
 YouTube - moomoo, https://www.youtube.com/channel/UC3eU4QAZvjFI6qwkHV0s4ZQ.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moomooooo&show_icons=true&theme=radical&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moomooooo&show_icons=true&theme=prussian&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
