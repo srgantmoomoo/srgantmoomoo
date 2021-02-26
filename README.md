@@ -3,7 +3,7 @@ Hi there, i'm  SrgantMooMoo. I got into coding around July 2020 and it's somethi
 
 ## Projects 
 - postman, a public minecraft forge 1.12.2 client for anarchy servers.
-  - postman.++, a psif extenstion of postman with a few exclusive features.
+  - postman++, a psif extenstion of postman with a few exclusive features.
 - Moo Base, a public minecraft forge 1.12.2 client base, meant to be as simple as possible for anyone to use.
 - get-on-top-of.me, a personal website i'm doing for fun, and will help me start getting into html and web development a little more.
 - Las Venturas, a private minecraft 1.12.2 client in mcp that i'm mostly doing for the fun of it.
