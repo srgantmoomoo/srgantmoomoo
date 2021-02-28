@@ -4,7 +4,7 @@ Hi there, i'm  SrgantMooMoo. I got into coding around July 2020 and it's somethi
 ## Projects 
 **works in progress** <br>
 - postman, a public minecraft forge 1.12.2 client for anarchy servers.
-  - postman++, a psif extenstion of postman with a few exclusive features.
+  - postman++, a paid extenstion of postman with a few exclusive features.
 - beach house, a private latest version fabric client for minecraft, based off bedroom.
 - bedroom, a currently private latest version fabric base for minecraft clients.
 
