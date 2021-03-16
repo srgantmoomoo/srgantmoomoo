@@ -1,10 +1,10 @@
 ## SrgantMooMoo
-Hi there, i'm  SrgantMooMoo. I got into coding around July 2020 and it's something I genuinly enjoy doing now.  I know java pretty well now and also know html and css. The majority of my projects right now have to do with minecraft modding. I eventually want to get into c, c++, python, go, and JavaScript, and maybe more some day.
+Hi there, i'm  SrgantMooMoo. I got into coding around July 2020 and it's something I genuinely enjoy doing now.  I know Java pretty well now and also know HTML and CSS. The majority of my projects right now have to do with minecraft modding. I eventually want to get into C, C++, Python, Go, and JavaScript, and maybe more some day.
 
 ## Projects 
 **works in progress** <br>
 - postman, a public minecraft forge 1.12.2 client for anarchy servers.
-  - postman++, a paid extenstion of postman with a few exclusive features.
+  - postman++, a paid extension of postman with a few exclusive features.
 - beach house, a private latest version fabric client for minecraft, based off bedroom.
 - bedroom, a public latest version fabric base for minecraft clients.
 
