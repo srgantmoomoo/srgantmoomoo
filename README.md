@@ -5,16 +5,16 @@ I mostly know Java, Java is on top, but I also know HTML, CSS, and JavaScript. S
 
 ## Projects 
 **works in progress** <br>
-- beach house, a private latest version fabric client for minecraft, based off bedroom.
-- bedroom, a public latest version fabric base for minecraft clients, made originally for beach house.
+- [beach house](https://github.com/beach-house-development), a latest version Fabric client for Minecraft.
+  - [bedroom](https://github.com/beach-house-development/bedroom), a latest version Fabric project for Minecraft, made to serve as a base for minecraft clients. This was originally made as the base for beach house.
 
 **unfinished** <br>
-- Moo Base, a public minecraft forge 1.12.2 client base, meant to be as simple as possible for anyone to use.
-- get-on-top-of.me, a personal website that i waas doing for fun to help me get into web dev, the domain has since been repurposed for another one of my projects.
-- Las Venturas, a private minecraft 1.12.2 client in mcp that i was mostly doing for the fun of it.
-- postman, a public minecraft forge 1.12.2 client for anarchy servers.
+- [Moo Base](https://github.com/moomooooo/postman), a public Minecraft Forge 1.12.2 client base, meant to be as simple as possible for anyone to use.
+- [get-on-top-of.me](https://github.com/moomooooo/get-on-top-of.me), a personal website that I was doing for fun to help me get into web dev, the domain has since been repurposed for another one of my projects.
+- Las Venturas, a private Minecraft 1.12.2 client in MCP that I was mostly doing for the fun of it.
+- [postman](https://github.com/moomooooo/postman), a public Minecraft Forge 1.12.2 client for anarchy servers.
   - postman++, a paid extension of postman with a few exclusive features.
-- Present Utility Mod, a utility mod made for minecraft 1.12.2 in mcp.
+- Present Utility Mod, a utility mod made for Minecraft 1.12.2 in MCP.
 
 ## Info 
 Discord - srgantmoomoo#1052. <br>
