@@ -1,5 +1,7 @@
 ## SrgantMooMoo
-Hi there, I'm SrgantMooMoo. I got into coding around July 2020 and it's something I genuinely enjoy doing now.  I mostly know and enjoy Java, but I also know HTML, CSS, and a little bit of JavaScript, C#, and Python. The majority of my projects right now have to do with minecraft modding. I eventually want to learn C, C++, Go, and some others.
+Hi there, I'm SrgantMooMoo. I got into coding around July of 2020 and it's something I genuinely enjoy doing now. The majority of my projects right now have to do with minecraft modding.
+
+I mostly know Java, Java is on top, but I also know HTML, CSS, and JavaScript. Some languages I wanna learn in the near future are Python, C, and Go.
 
 ## Projects 
 **works in progress** <br>
@@ -14,9 +16,8 @@ Hi there, I'm SrgantMooMoo. I got into coding around July 2020 and it's somethin
   - postman++, a paid extension of postman with a few exclusive features.
 - Present Utility Mod, a utility mod made for minecraft 1.12.2 in mcp.
 
-
 ## Info 
-Discord - srgantmoomoo#1052. <br />
+Discord - srgantmoomoo#1052. <br>
 YouTube - moomoo, https://www.youtube.com/channel/UC3eU4QAZvjFI6qwkHV0s4ZQ.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=moomooooo&show_icons=true&theme=prussian&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
