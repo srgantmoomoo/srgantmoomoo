@@ -1,7 +1,7 @@
 ## SrgantMooMoo
 Hi there, I'm SrgantMooMoo. I got into coding around July of 2020 and it's something I genuinely enjoy doing now. The majority of my projects right now have to do with minecraft modding.
 
-I mostly know Java, Java is on top, but I also know HTML, CSS, and JavaScript. Some languages I wanna learn in the near future are Python, C, and Go.
+I mostly know Java, Java is on top, but I also know Python, HTML, CSS, and JavaScript. Some languages I wanna learn in the near future are C, and Go.
 
 ## Projects 
 **works in progress** <br>
