@@ -5,7 +5,7 @@ I mostly know Java, Java is on top, but I also know Python, HTML, CSS, and JavaS
 
 ## Projects 
 **works in progress** <br>
-- [beach house](https://github.com/beach-house-development), a latest version Fabric client for Minecraft.
+- [beach house](https://github.com/beach-house-development), a private latest version Fabric client for Minecraft.
   - [bedroom](https://github.com/beach-house-development/bedroom), a latest version Fabric project for Minecraft, made to serve as a base for minecraft clients. This was originally made as the base for beach house.
 
 **unfinished** <br>
