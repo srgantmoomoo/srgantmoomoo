@@ -18,6 +18,6 @@ I mostly know Java, Java is on top, but I also know Python, HTML, CSS, and JavaS
 
 ## Info 
 Discord - srgantmoomoo#1052. <br>
-YouTube - moomoo, https://www.youtube.com/channel/UC3eU4QAZvjFI6qwkHV0s4ZQ.
+YouTube - srgantmoomoo, https://www.youtube.com/channel/UC3eU4QAZvjFI6qwkHV0s4ZQ.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srgantmoomoo&show_icons=true&theme=prussian&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
