@@ -1,1 +1,1 @@
-i'm srgantmoomoo and i hate myself
+i'm srgantmoomoo and i'm starting to scare myself.
